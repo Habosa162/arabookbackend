@@ -2,20 +2,20 @@ const masterRouter  = require("express").Router() ;
 const master = require("../Controller/masterController") ;
 
 
-masterRouter.post("/api/post/country",master.createCountry);
+masterRouter.post("/post/country",master.createCountry);
 
-masterRouter.post("/api/post/grade-level",master.createGradeLevel);
+masterRouter.post("/post/grade-level",master.createGradeLevel);
 
-masterRouter.post("/api/post/term",master.createTerm);
+masterRouter.post("/post/term",master.createTerm);
 
-masterRouter.post("/api/post/subject",master.createSubject);
+masterRouter.post("/post/subject",master.createSubject);
 
-masterRouter.post("/api/post/chapter",master.createChapter);
-
-
+masterRouter.post("/post/chapter",master.createChapter);
 
 
-masterRouter.post("/api/get/country",master.listCountry);
+
+
+masterRouter.post("/get/country",master.listCountry);
 
 
 

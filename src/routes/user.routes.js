@@ -5,7 +5,7 @@ const { body, validationResult  } = require('express-validator');
 
 
                                         // SIGN UP ROUTER
-userRouter.post("/api/signup",
+userRouter.post("/signup",
                                 body("email").isEmail().normalizeEmail(),
                                 body("name").isLength({min:3}),
                                 body("password").isLength({min:8}),userController.signup);
@@ -21,7 +21,7 @@ userRouter.post("/api/signup",
                                
                                         
                                         
-userRouter.post("/api/signin",
+userRouter.post("/signin",
                                 body('email').isEmail().normalizeEmail()
                                 ,body('password').isLength({ min: 8 }),userController.signin) ;
                                         

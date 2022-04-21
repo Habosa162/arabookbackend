@@ -6,7 +6,7 @@ const maseterTokenVerify = require("../middleware/tokenMaster&admin");
 
 ////////////////////////////////////////// SHIPMENT GET//////////////////////////////////////////////////////
 
-app.get('/api/get/shipment', maseterTokenVerify, (req, res) => {
+app.get('/get/shipment', maseterTokenVerify, (req, res) => {
     con.execute(`SELECT 
                 shipment.shipment_id , 
                 shipment.type , 
@@ -35,7 +35,7 @@ app.get('/api/get/shipment', maseterTokenVerify, (req, res) => {
 ////////////////////////////////////////// SHIPMENT DELETE//////////////////////////////////////////////////////
 
 
-app.delete('/api/delete/shipment/:shipmentID', maseterTokenVerify, (req, res) => {
+app.delete('/delete/shipment/:shipmentID', maseterTokenVerify, (req, res) => {
     const shipmentID = req.params.shipmentID;
 
     console.log(`the id of the user is ++++++++++++++++ ${shipmentID} ++++++++++++++++`);
@@ -58,7 +58,7 @@ app.delete('/api/delete/shipment/:shipmentID', maseterTokenVerify, (req, res) =>
 
 ////////////////////////////////////////// GET ALL SHIPMENTS USING SEARCH//////////////////////////////////////////////////////
 
-app.post('/api/search/shipment', (req, res) => {
+app.post('/search/shipment', (req, res) => {
   
       let {input} = req.body;
       console.log(input) ; 
@@ -106,7 +106,7 @@ app.post('/api/search/shipment', (req, res) => {
 
 ////////////////////////////////////////// SHIPMENT  State//////////////////////////////////////////////////////
 
-app.post('/api/update/shipmentState', maseterTokenVerify, (req, res) => {
+app.post('/update/shipmentState', maseterTokenVerify, (req, res) => {
     const { shipmentState, shipmentID } = req.body;
     con.execute(`UPDATE shipment SET shipmentState='${shipmentState}' WHERE shipment_id=${shipmentID}`);
 
