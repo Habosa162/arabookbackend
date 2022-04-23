@@ -1,0 +1,20 @@
+name: Publish website to CPanel
+on:
+  push:
+    branches:
+      - master
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Depley-Actio
+    runs-on: ubunt-latest
+    steps:
+    - uses: actions/checkout@v2.1.0
+      with:
+        fetch-depth: 2
+    - name: FTP-Deploy-Action
+      uses: Samkirkland/FTP-Deploy-Action@3.1.1
+      with:
+        ftp-server: ${{ secrets.FTP.SERVER}}
+        ftp-usermane: ${{ secrets.FTP.USERNAME }}
+        ftp-psssword: ${{ secrets.FTP.PASSWORD }}
+ 
