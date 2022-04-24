@@ -4,10 +4,6 @@ const userController = require("../Controller/userControler") ;
 const { body, validationResult  } = require('express-validator');
 
 
-userRouter.get("/",(req,res)=>{
-        res.send("im works fine by habosaaaaaaaa") ; 
-})
-
                                         // SIGN UP ROUTER
 userRouter.post("/signup",
                                 body("email").isEmail().normalizeEmail(),

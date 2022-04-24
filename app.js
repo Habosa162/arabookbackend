@@ -14,7 +14,7 @@ app.use(require("./src/routes/master.routes"));
 
 
 app.get('/', (req, res) => {
-    res.send("this is the home page");
+    res.send("this is the home pageeeeeeeeeeeeeeeee");
 }); 
 
 app.get("*",(req,res)=>{
