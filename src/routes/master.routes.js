@@ -15,7 +15,7 @@ masterRouter.post("/post/chapter",master.createChapter);
 
 
 
-masterRouter.post("/get/country",master.listCountry);
+masterRouter.get("/get/country",master.listCountry);
 
 
 

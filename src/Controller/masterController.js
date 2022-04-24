@@ -257,13 +257,6 @@ const createLesson=(req,res)=>{
 
 
 
-
-
-
-
-
-
-
 const listCountry=(req,res)=>{
   try {
     db.query(`SELECT * FROM country`,(err,data)=>{
