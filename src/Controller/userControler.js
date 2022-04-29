@@ -145,7 +145,7 @@ const getCountry=(req,res)=>{
   
   const getgradelevel =(req,res)=>{
     try {
-      const country = req.params.country ;
+      const {country} = req.params ;
       db.query(`SELECT * FROM gradeview WHERE country=${country}`,(err,data)=>{
         if(err){
           res.json({
