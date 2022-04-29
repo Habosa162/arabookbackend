@@ -21,9 +21,12 @@ userRouter.post("/signin",
                                 ,body('password').isLength({ min: 8 }),user.signin) ;
                                         
         
+
+
+userRouter.get("/get/gradelevel",user.getgradelevel);
+
 userRouter.get("/get/country",user.getCountry);
 
-userRouter.get("/get/gradelevel/:country",user.getgradelevel);
 
 
 module.exports = userRouter ; 
