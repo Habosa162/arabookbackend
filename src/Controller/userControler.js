@@ -116,7 +116,55 @@ const signin=(req, res) => {
 
 }
 
+
+// ___________________________________________________________AFTER LOGIN____________________________________________________________
+
+const getCountry=(req,res)=>{
+    try {
+      db.query(`SELECT * FROM country`,(err,data)=>{
+        if(!err){
+          if(data.length>0){
+            res.json({
+              country:data
+            })
+          }else{
+            res.json({
+              message:"there is no countries has created yet !"
+            })
+          }
+        }else{
+          res.send(err)
+        }
+      })
+    } catch (error) {
+      res.send(error)
+    }
+  }
+  
+  
+  
+  const getgradelevel =(req,res)=>{
+    try {
+      const country = req.params.country ;
+      db.query(`SELECT * FROM gradeview WHERE country=${country}`,(err,data)=>{
+        if(err){
+          res.json({
+            err:err
+          })
+        }else{
+          res.json({
+            grade:data
+          })
+        }
+      })
+    } catch (error) {
+      
+    }
+  }
+
 module.exports = {
     signup,
-    signin
+    signin,
+    getCountry,
+    getgradelevel
 }

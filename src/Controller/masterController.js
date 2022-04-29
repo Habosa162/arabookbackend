@@ -256,29 +256,6 @@ const createLesson=(req,res)=>{
 
 
 
-
-const listCountry=(req,res)=>{
-  try {
-    db.query(`SELECT * FROM country`,(err,data)=>{
-      if(!err){
-        if(data.length>0){
-          res.json({
-            country:data
-          })
-        }else{
-          res.json({
-            message:"there is no countries has created yet !"
-          })
-        }
-      }else{
-        res.send(err)
-      }
-    })
-  } catch (error) {
-    res.send(error)
-  }
-}
-
 module.exports={
     createCountry,
     createGradeLevel,
@@ -286,6 +263,6 @@ module.exports={
     createSubject,
     createChapter,
     createLesson,
-// _________________________________________________________________
-    listCountry
+// __________________________________DELETE_______________________________
+
 }

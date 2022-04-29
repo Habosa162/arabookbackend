@@ -1,6 +1,6 @@
 const userRouter = require("express").Router(); 
 
-const userController = require("../Controller/userControler") ; 
+const user = require("../Controller/userControler") ; 
 const { body, validationResult  } = require('express-validator');
 
 
@@ -8,26 +8,23 @@ const { body, validationResult  } = require('express-validator');
 userRouter.post("/signup",
                                 body("email").isEmail().normalizeEmail(),
                                 body("name").isLength({min:3}),
-                                body("password").isLength({min:8}),userController.signup);
+                                body("password").isLength({min:8}),user.signup);
 
                                         
                                 
                                         // SIGN IN ROUTER
 
-
-
-                                        
-                                        
-                               
                                         
                                         
 userRouter.post("/signin",
                                 body('email').isEmail().normalizeEmail()
-                                ,body('password').isLength({ min: 8 }),userController.signin) ;
+                                ,body('password').isLength({ min: 8 }),user.signin) ;
                                         
-                                     
+        
+userRouter.get("/get/country",user.getCountry);
 
 
+userRouter.get("/get/gradeleve/:country")
 
 
 module.exports = userRouter ; 
