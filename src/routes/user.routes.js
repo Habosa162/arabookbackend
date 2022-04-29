@@ -23,7 +23,7 @@ userRouter.post("/signin",
         
 
 
-userRouter.get("/get/gradelevel",user.getgradelevel);
+userRouter.get("/get/grade",user.getgradelevel);
 
 userRouter.get("/get/country",user.getCountry);
 
