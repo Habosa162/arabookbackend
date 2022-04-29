@@ -24,7 +24,7 @@ userRouter.post("/signin",
 userRouter.get("/get/country",user.getCountry);
 
 
-userRouter.get("/get/gradeleve/:country")
+userRouter.get("/get/gradelevel/:country",user.getgradelevel);
 
 
 module.exports = userRouter ; 
