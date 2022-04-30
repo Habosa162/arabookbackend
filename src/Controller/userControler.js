@@ -1,5 +1,7 @@
 const bcrypt = require("bcrypt");
 const { validationResult } = require('express-validator');
+const res = require("express/lib/response");
+const { send } = require("express/lib/response");
 const con  = require("../Model/databaseCon/conDb");
 
 
@@ -121,7 +123,7 @@ const signin=(req, res) => {
 
 const getCountry=(req,res)=>{
     try {
-      db.query(`SELECT * FROM country`,(err,data)=>{
+        con.query(`SELECT * FROM country`,(err,data)=>{
         if(!err){
           if(data.length>0){
             res.json({
@@ -142,29 +144,134 @@ const getCountry=(req,res)=>{
   }
   
   
-  
-  const getgradelevel =(req,res)=>{
-    try {
-      const {country} = req.body ;
-      db.query(`SELECT * FROM gradeview WHERE country=${country}`,(err,data)=>{
-        if(err){
-          res.json({
-            err:err
+  const getgradelevel = (req,res)=>{
+      try {
+          const {country} = req.params
+          console.log(country) ; 
+
+          con.execute(`SELECT * FROM gradeview WHERE country='${country}'`,(err,data)=>{
+            if(err){
+                res.send(err)
+            }else{
+                res.json({
+                    grade:data
+                })
+            }
           })
-        }else{
-          res.json({
-            grade:data
-          })
-        }
-      })
-    } catch (error) {
-      
-    }
+      }catch (error) {
+          res.send(error)
+      }
   }
+
+
+
+
+  const geterm = (req,res)=>{
+      try {
+          const {gradeid} = req.params;  
+          con.query(`SELECT * FROM term WHERE grade_id ='${gradeid}'`,(err,data)=>{
+              if(err){
+                res.send(err)
+              }else{
+                  res.json({
+                      term:data
+                  })
+              }
+          }) 
+      } catch (error) {
+        res.send(error)  
+      }
+  }
+
+
+  const getsubject =(req,res)=>{
+      try {
+          const {termid} = req.params;  
+          con.query(`SELECT * FROM subject WHERE term_id='${termid}'`,(err,data)=>{
+              if(err){
+                  res.send(err)
+              }else{
+                  res.json({
+                      subject:data
+                  })
+              }
+          })
+      } catch (error) {
+          res.send(error);
+      }
+  }
+
+
+
+  const getchapter = (req,res)=>{
+      try {
+          const {subjectid} = req.params ; 
+          con.query(`SELECT * FROM chapter WHERE subject_id	 = ${subjectid}`,(err,data)=>{
+              if(err){
+                  res.send(err) ; 
+              }else{
+                  res.json({
+                      chapter:data
+                  })
+              }
+          })
+      } catch (error) {
+          res.send(error)
+      }
+  }
+
+
+  const getlesson =(req,res)=>{
+      try {
+          const {chapterid} = req.params ; 
+
+          con.query(`SELECT * FROM lesson WHERE chapter_id = '${chapterid}'`,(err,data)=>{
+              if(err){
+                res.send(err)
+              }else{
+                res.json({
+                    lesson:data
+                })
+              }
+          })
+      } catch (error) {
+          res.send(error)
+      }
+  }
+
+
+
+
+  const getsection =(req,res)=>{
+    try {
+        const {lessonid} = req.params ; 
+
+        con.query(`SELECT * FROM section WHERE lesson_id = '${lessonid}'`,(err,data)=>{
+            if(err){
+              res.send(err)
+            }else{
+              res.json({
+                  section:data
+              })
+            }
+        })
+    } catch (error) {
+        res.send(error)
+    }
+}
+
+
+
+
 
 module.exports = {
     signup,
     signin,
     getCountry,
-    getgradelevel
+    getgradelevel,
+    geterm,
+    getsubject,
+    getchapter,
+    getlesson,
+    getsection
 }

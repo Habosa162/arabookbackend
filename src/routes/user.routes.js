@@ -1,5 +1,4 @@
 const userRouter = require("express").Router(); 
-
 const user = require("../Controller/userControler") ; 
 const { body, validationResult  } = require('express-validator');
 
@@ -23,11 +22,23 @@ userRouter.post("/signin",
         
 
 
-userRouter.get("/get/grade",user.getgradelevel);
 
 userRouter.get("/get/country",user.getCountry);
 
 
+userRouter.get("/get/grade/:country",user.getgradelevel);
+
+
+userRouter.get("/get/term/:gradeid",user.geterm) ; 
+////////////////////////////////////////////////////////////////////////////////////////////NEEED TESTING 
+
+userRouter.get("/get/subject/:termid",user.getsubject) ;
+
+userRouter.get("/get/chapter/:subjectid",user.getchapter) ; 
+
+userRouter.get("/get/lesson/:chapterid",user.getlesson) ; 
+
+userRouter.get("/get/lesson/:lessonid",user.getsection) ; 
 
 module.exports = userRouter ; 
 
