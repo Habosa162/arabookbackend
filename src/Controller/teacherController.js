@@ -74,8 +74,30 @@ const acceptStudentRequest  = (req,res)=>{
 }
 
 
+const refuseStudentRequest  = (req,res)=>{
+    try {
+        const {user_id , course_id} = req.body ; 
+        con.execute(`DELETE FROM enrol WHERE user_id = ? AND course_id`,[user_id,course_id],(err,data)=>{
+            if(err){
+                res.json({
+                    error:err
+                })
+            }else if(data){
+                res.json({
+                    deleted:true
+                })
+            }
+        })
+    } catch (error) {
+        res.send(error) ;
+    }
+}
+
+
+
 module.exports={
     createCourse,
     getEnrolRequests,
-    acceptStudentRequest
+    acceptStudentRequest,
+    refuseStudentRequest
 }

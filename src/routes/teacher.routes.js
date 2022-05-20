@@ -13,4 +13,7 @@ teacherRouter.put("/put/acceptStudentRequest",teacher.acceptStudentRequest ) ;
 
 // delete student request
 
+teacherRouter.delete("/delete/refuseStudentRequest",teacher.refuseStudentRequest) ;
+
+
 module.exports = teacherRouter ; 
