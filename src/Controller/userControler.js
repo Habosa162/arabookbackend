@@ -27,7 +27,7 @@ const signup = (req, res) => {
                                         throw err;
                                     } else {
                                         // _______________________________________________________STUDENT INSTERTAION____________________________________________________
-                                         con.execute(`INSERT INTO user(name,email,password,role_id,country_id,gender_id) 
+                                         con.execute(`INSERT INTO user(c) 
                                                            VALUES('${name}','${email}','${hash}','${role_id}' ,'${country_id}','${gender_id}')`,(err,data) => {
                                             if (!err) {
                                                 // console.log(err) ; 
@@ -78,7 +78,7 @@ const signin=(req, res) => {
             return res.status(400).json({errors: errors.array() });
         }else{
         con.query(`SELECT * FROM users_v WHERE email = '${email}'`, (err, [data]) => {
-            if (err) {
+            if (err) { 
                 throw err;
             }
             else {
@@ -246,7 +246,7 @@ const getCountry=(req,res)=>{
     try {
         const {lessonid} = req.params ; 
 
-        con.query(`SELECT * FROM section WHERE lesson_id = '${lessonid}'`,(err,data)=>{
+        con.query(`SELECT * FROM section WHERE lesson_id = '${lessonid}' AND accepted='${1}'`,(err,data)=>{
             if(err){
               res.send(err)
             }else{
@@ -257,6 +257,18 @@ const getCountry=(req,res)=>{
         })
     } catch (error) {
         res.send(error)
+    }
+}
+
+
+
+
+
+const requestSection=(req,res)=>{
+    try {
+        
+    } catch (error) {
+        res.send(error) ; 
     }
 }
 

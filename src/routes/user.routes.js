@@ -15,13 +15,10 @@ userRouter.post("/signup",
 
                                         
                                         
-userRouter.post("/signin",
-                                body('email').isEmail().normalizeEmail()
-                                ,body('password').isLength({ min: 8 }),user.signin) ;
+userRouter.post("/signin",body('email').isEmail().normalizeEmail()
+                         ,body('password').isLength({ min: 8 }),user.signin) ;
                                         
         
-
-
 
 userRouter.get("/get/country",user.getCountry);
 
