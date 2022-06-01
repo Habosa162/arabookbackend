@@ -13,6 +13,16 @@ masterRouter.post("/post/subject",master.createSubject);
 masterRouter.post("/post/chapter",master.createChapter);
 
 
+masterRouter.post("/post/lesson",master.createLesson);
+
+
+//create quizes for the lesson and chapters and subject 
+
+
+
+
+
+
 
 
 

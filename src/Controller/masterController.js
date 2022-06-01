@@ -5,29 +5,30 @@ const con = require("../Model/databaseCon/conDb");
 // ________________________________________________________CREATE COUNTRY_______________________________________________________
 const createCountry=(req,res)=>{
   try {
-    const {code,name}= req.body
+    const {name}= req.body
+    // id varchare and the name also
     const errors  = validationResult(req) ;
     if(!errors.isEmpty()){
         res.json({
             errors:errors
         })
     }else{
-        db.query(`SELECT * FROM country where name = ? AND code = ?`,[name,code],(err,[data])=>{
+        db.query(`SELECT * FROM country where name = ?`,[name],(err,[data])=>{
           if(err){
             res.send(err)
           }else{
             if(data){
               res.json({
-                bool:false,
+                inserted:false,
                 message:`already existed country before !`
               })
             }else{
-              db.execute(`INSERT INTO country(code,name) VALUES(?,?)`,[code,name],(err,data)=>{
+              db.execute(`INSERT INTO country(name) VALUES(?)`,[name],(err,data)=>{
                 if(err){
                   res.send(err)
                 }else{
                   res.json({
-                    bool:true,
+                    inserted:true,
                     message:"inserted sucssefully"
                   })
                 }
@@ -49,14 +50,14 @@ const createCountry=(req,res)=>{
 
 const createGradeLevel=(req,res)=>{
   try {
-    const{code,country_code,level} = req.body ; 
+    const{country_id,level} = req.body ; 
     const errors  = validationResult(req) ;
     if(!errors.isEmpty()){
         res.json({
             errors:errors
         })
     }else{
-      db.query(`SELECT * FROM grade_level WHERE code = ? AND level = ?`,[code,level],(err,[data])=>{
+      db.query(`SELECT * FROM grade_level WHERE country_id = ? AND level = ?`,[country_id,level],(err,[data])=>{
         if(err){
           res.send(
             err
@@ -64,16 +65,16 @@ const createGradeLevel=(req,res)=>{
         }else{
           if(data){
             res.json({
-              bool:false,
+              inserted:false,
               message:"this grade level is already existed"
             })
           }else{
-            db.execute(`INSERT INTO grade_level(code,country_code,level) VALUES(?,?,?)`,[code,country_code,level],(err,data)=>{
+            db.execute(`INSERT INTO grade_level(country_id,level) VALUES(?,?,?)`,[country_id,level],(err,data)=>{
               if(err){
                 res.send(err);
               }else{
                 res.json({
-                  bool:true,
+                  inserted:true,
                   message:"the grade level inserted successfully !"
                 })
               }
@@ -98,23 +99,23 @@ const createGradeLevel=(req,res)=>{
 
 const createTerm=(req,res)=>{
     try{
-      const{code,grade_code,name}=req.body;
+      const{grade_id,name}=req.body;
       const errors  = validationResult(req) ;
       if(errors.isEmpty()){
-        db.query(`SELECT * FROM term WHERE code=?`,[code],(err,[data])=>{
+        db.query(`SELECT * FROM term WHERE grade_id=? AND name = ?`,[grade_id,name],(err,[data])=>{
           if(!err){
             if(data){
               res.json({
-                bool:false,
-                message:"this term code is existed before"
+                inserted:false,
+                message:"this term id is existed before"
               })
             }else{
-              db.execute(`INSERT INTO term(code,grade_code,name) VALUES(?,?,?)`,[code,grade_code,name],(err,data)=>{
+              db.execute(`INSERT INTO term(grade_id,name) VALUES(?,?)`,[grade_id,name],(err,data)=>{
                 if(err){
                   res.send(err)
                 }else{
                   res.json({
-                    bool:true,
+                    inserted:true,
                     message:"inserted successfully"
                   })
                 }
@@ -138,25 +139,29 @@ const createTerm=(req,res)=>{
 
 
 
+
+
+
+
 const createSubject=(req,res)=>{
   try{
-    const{code,term_code,name}=req.body;
+    const{term_id,name}=req.body;
     const errors  = validationResult(req) ;
     if(errors.isEmpty()){
-      db.query(`SELECT * FROM subject WHERE code=?`,[code],(err,[data])=>{
+      db.query(`SELECT * FROM subject WHERE term_id=? AND name=?`,[term_id,name],(err,[data])=>{
         if(!err){
           if(data){
             res.json({
-              bool:false,
-              message:"this subject code is existed before"
+              inserted:false,
+              message:"this subject id is existed before"
             })
           }else{
-            db.execute(`INSERT INTO subject(code,term_code,name) VALUES(?,?,?)`,[code,term_code,name],(err,data)=>{
+            db.execute(`INSERT INTO subject(term_id,name) VALUES(?,?)`,[term_id,name],(err,data)=>{
               if(err){
                 res.send(err)
               }else{
                 res.json({
-                  bool:true,
+                  inserted:true,
                   message:"inserted successfully"
                 })
               }
@@ -181,23 +186,23 @@ const createSubject=(req,res)=>{
 
 const createChapter=(req,res)=>{
   try{
-    const{code,subject_code,name}=req.body;
+    const{subject_id,name}=req.body;
     const errors  = validationResult(req) ;
     if(errors.isEmpty()){
-      db.query(`SELECT * FROM chapter WHERE code=?`,[code],(err,[data])=>{
+      db.query(`SELECT * FROM chapter WHERE subject_id=? AND name=?`,[subject_id,name],(err,[data])=>{
         if(!err){
           if(data){
             res.json({
-              bool:false,
-              message:"this chapter code is existed before"
+              inserted:false,
+              message:"this chapter id is existed before"
             })
           }else{
-            db.execute(`INSERT INTO chapter(code,subject_code,name) VALUES(?,?,?)`,[code,subject_code,name],(err,data)=>{
+            db.execute(`INSERT INTO chapter(subject_id,name) VALUES(?,?)`,[subject_id,name],(err,data)=>{
               if(err){
                 res.send(err)
               }else{
                 res.json({
-                  bool:true,
+                  inserted:true,
                   message:"inserted successfully"
                 })
               }
@@ -218,25 +223,33 @@ const createChapter=(req,res)=>{
 
 }
 
+
+
+
+
+
 const createLesson=(req,res)=>{
   try{
-    const{code,chapter_code,name}=req.body;
+    const{chapter_id,name}=req.body;
+
+
     const errors  = validationResult(req) ;
+    
     if(errors.isEmpty()){
-      db.query(`SELECT * FROM lesson WHERE code=?`,[code],(err,[data])=>{
+      db.query(`SELECT * FROM lesson WHERE chapter_id=? AND name=?`,[chapter_id,name],(err,[data])=>{
         if(!err){
           if(data){
             res.json({
-              bool:false,
-              message:"this lesson code is existed before"
+              inserted:false,
+              message:"this lesson id is existed before"
             })
           }else{
-            db.execute(`INSERT INTO lesson(code,chapter_code,name) VALUES(?,?,?)`,[code,chapter_code,name],(err,data)=>{
+            db.execute(`INSERT INTO lesson(chapter_id,name) VALUES(?,?)`,[chapter_id,name],(err,data)=>{
               if(err){
                 res.send(err)
               }else{
                 res.json({
-                  bool:true,
+                  inserted:true,
                   message:"inserted successfully"
                 })
               }

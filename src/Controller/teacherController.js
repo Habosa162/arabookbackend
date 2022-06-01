@@ -33,8 +33,8 @@ try {
 
 const getEnrolRequests = (req,res)=>{
     try {
-        const {course_id} = req.body ; 
-        con.query(`SELECT * FROM  scr WHERE scr.course_id = ?`,[course_id],(err,data)=>{
+        const {courseId} = req.params ; 
+        con.query(`SELECT * FROM  scr WHERE scr.course_id = ?`,[courseId],(err,data)=>{
             if(err){
                 res.json({
                     error:err
@@ -56,7 +56,7 @@ const getEnrolRequests = (req,res)=>{
 const acceptStudentRequest  = (req,res)=>{
     try {
         const {user_id , course_id} = req.body ; 
-        con.execute(`UPDATE enrol SET enrol.accepted_id = '${1}'   WHERE enrol.user_id = '${user_id}' AND enrol.course_id = '${course_id}' ;`
+        con.execute(`UPDATE enrol SET enrol.accepted_id = '${1}' WHERE enrol.user_id = '${user_id}' AND enrol.course_id = '${course_id}' ;`
                     ,(err,data)=>{
                         if(err){
                             res.json(

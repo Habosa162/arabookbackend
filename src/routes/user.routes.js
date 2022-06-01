@@ -18,7 +18,6 @@ userRouter.post("/signup",
 userRouter.post("/signin",body('email').isEmail().normalizeEmail()
                          ,body('password').isLength({ min: 8 }),user.signin) ;
                                         
-        
 
 userRouter.get("/get/country",user.getCountry);
 
@@ -35,7 +34,7 @@ userRouter.get("/get/chapter/:subjectid",user.getchapter) ;
 
 userRouter.get("/get/lesson/:chapterid",user.getlesson) ; 
 
-userRouter.get("/get/lesson/:lessonid",user.getsection) ; 
+userRouter.get("/get/section/:lessonid",user.getsection) ; 
 
 module.exports = userRouter ; 
 
