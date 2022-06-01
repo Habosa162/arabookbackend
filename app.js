@@ -10,12 +10,12 @@ app.use(express.json());
 app.use(express.urlencoded({extended:false}));
 app.use(require("./src/routes/user.routes")) ;
 app.use(require("./src/routes/master.routes"));
+app.use(require("./src/routes/student.routes"));
+app.use(require("./src/routes/teacher.routes"));
+app.use(require("./src/routes/admin.routes"));
 
 
 
-app.get('/', (req, res) => {
-    res.send("this is the home pageeeeeeeeeeeeeeeee");
-}); 
 
 app.get("*",(req,res)=>{
     res.json({

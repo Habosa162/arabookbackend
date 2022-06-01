@@ -2,7 +2,9 @@ const userRouter = require("express").Router();
 const user = require("../Controller/userControler") ; 
 const { body, validationResult  } = require('express-validator');
 
-
+app.get('/', (req, res) => {
+        res.send("this is the home pageeeeeeeeeeeeeeeee");
+    }); 
                                         // SIGN UP ROUTER
 userRouter.post("/signup",
                                 body("email").isEmail().normalizeEmail(),
