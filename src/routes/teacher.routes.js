@@ -5,13 +5,11 @@ const { body, validationResult  } = require('express-validator');
 
 teacherRouter.post('/post/course', teacher.createCourse) ; 
 
+teacherRouter.get("/get/teacher/courses",teacher.getTeacherCourses) ; 
 
 teacherRouter.get("/get/enrolRequests/:courseId",teacher.getEnrolRequests ) ; 
 
-
 teacherRouter.put("/put/acceptStudentRequest",teacher.acceptStudentRequest ) ; 
-
-
 
 teacherRouter.delete("/delete/refuseStudentRequest",teacher.refuseStudentRequest) ;
 
@@ -24,9 +22,15 @@ teacherRouter.delete("/delete/refuseStudentRequest",teacher.refuseStudentRequest
 
 
 
-// making exam 
-// create question in the questions bank 
+// making exam  //////adham ////////////////////
+
 //choose from question bank
+
+teacherRouter.post("/post/createQuestion",teacher.createQuestion)
+teacherRouter.get("/get/createExam",teacher.createExam)
+
+
+
 //get the exam grades in chart
 
 
