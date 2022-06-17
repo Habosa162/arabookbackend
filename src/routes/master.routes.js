@@ -23,12 +23,4 @@ masterRouter.post("/post/lesson",master.createLesson);
 
 
 
-
-
-
-
-
-
-
-
 module.exports = masterRouter ; 
