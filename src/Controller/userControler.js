@@ -7,6 +7,12 @@ const jwt = require("jsonwebtoken");
 
 
 
+
+
+
+
+
+
 // SIGN UP CONROLLER
 const signup = (req, res) => {
     try {
@@ -125,6 +131,9 @@ const signin = (req, res) => {
 
 
 }
+
+
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 const getRole = (req, res) => {
 
@@ -206,13 +215,16 @@ const getCountry = (req, res) => {
 }
 
 
+
+
+
 const getgradelevel = (req, res) => {
     try {
         const { country } = req.params ;
 
         // console.log(country);
 
-        con.execute(`SELECT * FROM grade WHERE country_id='${country}'`, (err, data) => {
+        con.execute(`SELECT * FROM gradeview WHERE country='${country}'`, (err, data) => {
             if (err) {
                 res.send(err)
             } else {
@@ -251,6 +263,7 @@ const geterm = (req, res) => {
 const getsubject = (req, res) => {
     try {
         const { termid } = req.params;
+        console.log(termid)
         con.query(`SELECT * FROM subject WHERE term_id='${termid}'`, (err, data) => {
             if (err) {
                 res.send(err)
@@ -392,6 +405,7 @@ try {
 }
 
 }
+
 
 
 

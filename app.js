@@ -39,6 +39,10 @@ app.get("*",(req,res)=>{
 //https://stackoverflow.com/questions/48914987/send-image-path-from-node-js-express-server-to-react-client
 app.use('/uploads', express.static('uploads'));
 
+
+
+
+
 // Serve static assets if in production
 if (process.env.NODE_ENV === "production") {
 
@@ -53,14 +57,19 @@ if (process.env.NODE_ENV === "production") {
 
 //////////////////////////////////////////////
 
+
+
+
 const server = http.createServer(app)
 
-const io = new Server(server,{
+ const io = new Server(server,{
     cors:{
         origin : "http://localhost:3000",
         methods : ["GET","POST"]
     }
 }) ;
+
+
 
 
 
