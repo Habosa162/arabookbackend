@@ -1,0 +1,2710 @@
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:1:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+/home/arabxbyu/api.arabook.net/src/Model/databaseCon/conDb.js:11
+        if(err){throw err}else{
+                ^
+
+Error: getaddrinfo ENOTFOUND 127.0.0.1:5522 127.0.0.1:5522:3306
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+Warning: got packets out of order. Expected 8 but received 1
+Warning: got packets out of order. Expected 3 but received 1
+Warning: got packets out of order. Expected 8 but received 1
+Warning: got packets out of order. Expected 3 but received 1
+SyntaxError: Unexpected token } in JSON at position 73
+    at JSON.parse (<anonymous>)
+    at parse (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/raw-body/index.js:224:16)
+    at done (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:104
+                    } catch (error) { throw error }
+                                      ^
+
+ReferenceError: jwt is not defined
+    at Query.con.query [as onResult] (/home/arabxbyu/api.arabook.net/src/Controller/userControler.js:91:53)
+    at process.nextTick (/home/arabxbyu/nodevenv/api.arabook.net/10/lib/node_modules/mysql2/lib/commands/query.js:86:16)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5
+app.get('/', (req, res) => {
+^
+
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/src/routes/user.routes.js:5:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/arabxbyu/api.arabook.net/app.js:11:9)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
